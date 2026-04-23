@@ -13,7 +13,7 @@ Feel free to connect with me on the following platforms:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-gerardo-espinosa-gonz%C3%A1lez-608139276/)
 
 Check out my personal projects!
-- ✅ **SQL Full Course:** [GIT Repo](https://github.com/DataWithBaraa/sql-ultimate-course)
+- ✅ **adventure-works-analytics:** [GIT Repo](https://github.com/KiwiKamari/adventure-works-analytics)
 
 
 ### 🌟 About Me
