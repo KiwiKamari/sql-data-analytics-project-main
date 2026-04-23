@@ -18,5 +18,5 @@ Check out my personal projects!
 
 ### 🌟 About Me
 
-Hello there! I'm **Luis Espinosa**. I’m a **Software Developer** with interest on Data Analysis and Database Management using Micrsoft SQL Server, Python and PowerBI! I also have experience developing on C# on Visual Studio and the game engine Unity!
+Hello there! I'm **Luis Espinosa**. I'm a **software developer** with an interest in data analysis and database management using Microsoft SQL Server, Python, and PowerBI. I also have experience developing with C# in Visual Studio and with the Unity game engine.
 
